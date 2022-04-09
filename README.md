@@ -16,7 +16,7 @@ Using several concepts taught in class and also by reading multiple papers on th
 
 Information about the files and folders:
 • ML_Final_Project_Report - The project report which contains information about all the preprocessing techniques and models we tried out as part of the project.<br>
-• ppt - The project presentation in pptx format which has information about all the difficulties we faces in the duration of the project and how we overcame them.<br>
+• presentation - The project presentation in .pdf format which has information about all the difficulties we faces in the duration of the project and how we overcame them.<br>
 • PREPROCESSING - This folder contains the ipynb notebooks we used while trying different methods of preprocessing.<br>
 • CODE - This folder contains the code for the models we tried out in the course of the project.<br>
 
