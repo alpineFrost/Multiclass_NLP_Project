@@ -14,4 +14,10 @@ The classes for the target are:<br>
 
 Using several concepts taught in class and also by reading multiple papers on the different models and techniques we could use, we created a classifier with the ultimate goal of detecting spam questions.
 
+Information about the files and folders:
+• ML_Final_Project_Report - The project report which contains information about all the preprocessing techniques and models we tried out as part of the project.<br>
+• ppt - The project presentation in pptx format which has information about all the difficulties we faces in the duration of the project and how we overcame them.<br>
+• PREPROCESSING - This folder contains the ipynb notebooks we used while trying different methods of preprocessing.<br>
+• CODE - This folder contains the code for the models we tried out in the course of the project.<br>
+
 This project was done in collaboration with <a href="https://github.com/Vaibhavi1707">@Vaibhavi1707</a>
