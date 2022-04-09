@@ -5,12 +5,12 @@ A scenario was given - CodeProject’s forums are being overrun with spam questi
 amount of spam on the website is more than can be manually filtered through. We were to create a model, which, when given various details about a question and the account can predict whether the question should be deleted, and also predict the reason for deletion (from a small set of standard
 reasons i.e multiclass classification).
 
-The classes for the target are:
-• 0: ”valid”,
-• 1: ”kehna kya chahte ho”
-• 2: ”irrelevant”
-• 3: ”low quality”
-• 4: ”not reproducible”
+The classes for the target are:<br>
+• 0: ”valid”<br>
+• 1: ”kehna kya chahte ho”<br>
+• 2: ”irrelevant”<br>
+• 3: ”low quality”<br>
+• 4: ”not reproducible”<br>
 
 Using several concepts taught in class and also by reading multiple papers on the different models and techniques we could use, we created a classifier with the ultimate goal of detecting spam questions.
 
